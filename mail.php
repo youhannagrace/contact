@@ -13,10 +13,10 @@ $recipient = "info@cieliaperti.tv";
 mail($recipient, $subject, $message
 ,$mailheader)
 
-or die("error!")
+or die("error!");
 
 
-echo '
+echo'
 
 <html lang="en">
 
